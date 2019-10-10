@@ -3,7 +3,7 @@ Platforms: Android (Java)
 Author: saidfaisal
 ---
 
-# Movie-Catalogue
+# Movie Catalogue
 This repository contains a final project "Menjadi Android Developer Expert (MADE)" of Dicoding.
 
 ## Prerequisites
@@ -42,3 +42,6 @@ App has some features:
 * The app has Release Today Reminder, sending notifications to users of all films released today using Stack Notification with Inbox Style. Release reminder must always run at 8 o'clock in the morning.
 * There is a setting page for activating and deactivating the reminder.
 * Using Content Provider as a mechanism to access data from one application to another.
+
+## Screenshots
+![ss](https://user-images.githubusercontent.com/28735519/66613364-6ffbe100-ebef-11e9-84e6-a68eb3b5d06a.PNG)
