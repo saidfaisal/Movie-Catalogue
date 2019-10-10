@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="desc">desc</string>
+    <string name="title_detail_example">A Star Is Born (2019)</string>
+    <string name="percentage_detail_example">75%</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="description_detail_example">Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about</string>
+    <string name="title_example">A Star Is Born</string>
+    <string name="date_example">October 3, 2018</string>
+    <string name="description_example">Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about</string>
+    <string name="percentage_example">75%</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="favorites">Favorites</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Shows</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">EMPTY</string>
+    <string name="set_remainder">Set Remainder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="release_reminder_description">Reminder showing the movie that released today</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder_description">Reminder for return to app</string>
+    <string name="content_title">Catalogue Movie</string>
+    <string name="content_text">Catalogue Movie is missing you!</string>
+    <string name="check_these">Check these out!!</string>
+    <string name="new_shows">New Shows</string>
+    <string name="three_of">3 of</string>
+    <string name="has_been_released">has been released</string>
+</resources>

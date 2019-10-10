@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Pertunjukan Tv</string>
+    <string name="desc">desc</string>
+    <string name="title_detail_example">Seorang Bintang Telah Lahir (2019)</string>
+    <string name="percentage_detail_example">75%</string>
+    <string name="overview">GAMBARAN</string>
+    <string name="description_detail_example">Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja</string>
+    <string name="title_example">Seorang Bintang Telah Lahir</string>
+    <string name="date_example">3 Oktober, 2018</string>
+    <string name="description_example">Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja</string>
+    <string name="percentage_example">75%</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="favorites">Kesukaan</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Pertunjukan Tv</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="search">Search</string>
+    <string name="appwidget_text">Galeri Gambar Kesukaan</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">EMPTY</string>
+    <string name="set_remainder">Atur Pengingat</string>
+    <string name="release_reminder">Lepaskan Pengingat</string>
+    <string name="release_reminder_description">Pengingat menunjukkan film yang dirilis hari ini</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_description">Pengingat untuk kembali ke aplikasi</string>
+    <string name="content_title">Film Katalog</string>
+    <string name="content_text">Film Katalog Merindukanmu!</string>
+    <string name="check_these">Coba lihat ini!!</string>
+    <string name="new_shows">Pertunjukkan Baru</string>
+    <string name="three_of">3 dari</string>
+    <string name="has_been_released">Sudah dirilis</string>
+</resources>
